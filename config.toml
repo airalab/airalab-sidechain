@@ -4,6 +4,8 @@ chain = "airalab_sidechain.json"
 [network]
 port = 31163
 bootnodes = [
+  "enode://2bee05861a1aaee46948cc1c00cd59c92c842e784d58133b293480141cad2a3591f88ed25bc21f6da7cfff3f5951ba7faaf5013f9e62dd8c1095be4de5a676ef@35.204.189.157:31163",
+  "enode://a5477aebcfc86d71055dee701b129db523071cb229eef8733eb8b696e62ce95da534615b84859ff76a6dd14d9d9bb93bba82f6593a94259521991899a1b2c2e1@164.132.111.49:31163"
 ]
 [rpc]
 disable = false
