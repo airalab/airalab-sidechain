@@ -22,10 +22,10 @@ Robonomics are instantiated on Airalab sidechain with ENS prefix `sid` (like a D
 
 Deployed contracts:
 
-* ENS: [0x4e978ed8A05b516D8130Ff7dF54Fbc8b7ceB6442](https://sidechain.aira.life/account/0x4e978ed8a05b516d8130ff7df54fbc8b7ceb6442)
-* XRT: [xrt.4.robonomics.sid](https://sidechain.aira.life/account/0x093ac06910f23570292fd5027a4fa558ed4cd010)
-* Factory: [factory.4.robonomics.sid](https://sidechain.aira.life/account/0xB12255b705dAe406D142c19787aA77859FECe0c6)
-* Lighthouse: [airalab.lighthouse.4.robonomics.sid](https://sidechain.aira.life/account/0xe85764e29583224c1d063639d2aeeed7c389df4d) 
+* ENS: [0xaC4Ac4801b50b74aa3222B5Ba282FF54407B3941](https://sidechain.aira.life/account/0xaC4Ac4801b50b74aa3222B5Ba282FF54407B3941)
+* XRT: [xrt.5.robonomics.sid](https://sidechain.aira.life/account/0x966EbbFD7ECbCF44b1e05341976e0652CFA01360)
+* Factory: [factory.5.robonomics.sid](https://sidechain.aira.life/account/0xd899994dbb31F46bccddb36FEd53209e43cF4d88)
+* Lighthouse: [airalab.lighthouse.5.robonomics.sid](https://sidechain.aira.life/account/0x202a09a451de674d2d65bf1c90968a8d8f72cf7b)
 
 ### XRT bridge
 
