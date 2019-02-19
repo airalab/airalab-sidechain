@@ -1,5 +1,5 @@
-Experimental Robonomics sidechain
----------------------------------
+Robonomics 1.0 sidechain
+------------------------
 
 This repository includes Airalab owned Ethereum sidechain for Robonomics network.
 
@@ -9,6 +9,10 @@ This repository includes Airalab owned Ethereum sidechain for Robonomics network
 
     git clone https://github.com/airalab/airalab-sidechain && cd airalab-sidechain
     ./start.sh
+
+### Validator set
+
+* `0xfc219ef10A1F7e958E3F4F609e8ABB3b98D22FF0`
 
 ### Robonomics instance
 

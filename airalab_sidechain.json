@@ -12,7 +12,7 @@
                                 "0xdfd7d27b5725943e2203d2b8ddf8e594c735581a"
                             ]
                         },
-                        "10": {
+                        "5": {
                             "contract": "0x0000000000000000000000000000000000000005"
                         }
                     }
@@ -24,7 +24,7 @@
         "gasLimitBoundDivisor": "0x400",
         "maximumExtraDataSize": "0x20",
         "minGasLimit": "0x1388",
-        "networkID" : "0x163",
+        "networkID" : "0x1163",
         "eip155Transition": 0,
         "validateChainIdTransition": 0,
         "eip140Transition": 0,
