@@ -4,7 +4,7 @@ chain = "airalab_sidechain.json"
 [network]
 port = 31163
 bootnodes = [
-  "enode://a5477aebcfc86d71055dee701b129db523071cb229eef8733eb8b696e62ce95da534615b84859ff76a6dd14d9d9bb93bba82f6593a94259521991899a1b2c2e1@164.132.111.49:31163",
+  "enode://a5477aebcfc86d71055dee701b129db523071cb229eef8733eb8b696e62ce95da534615b84859ff76a6dd14d9d9bb93bba82f6593a94259521991899a1b2c2e1@95.216.202.55:31163",
   "enode://4552e3ac0fec7221db573c960ae2fc19975e8504aad8e3ce1fe4a33d3db4951c3d94c524b1c0f196cfc2c6f14b063f1b2e41e20623cfa0ea1b24a15d93abc152@178.163.67.91:31163",
   "enode://2bee05861a1aaee46948cc1c00cd59c92c842e784d58133b293480141cad2a3591f88ed25bc21f6da7cfff3f5951ba7faaf5013f9e62dd8c1095be4de5a676ef@35.204.189.157:31163",
 
@@ -21,8 +21,8 @@ apis = ["web3", "eth", "pubsub", "net", "parity", "parity_pubsub", "traces", "rp
 hosts = ["none"]
 
 [account]
-#unlock = ["0x511Fc606A18038e6eb14dD46116366560a967Ec5"]
-#password = ["password"]
+unlock = ["0x511Fc606A18038e6eb14dD46116366560a967Ec5"]
+password = ["password"]
 keys_iterations = 600
 
 #[mining]
